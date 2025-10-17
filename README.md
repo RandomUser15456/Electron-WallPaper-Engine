@@ -47,10 +47,6 @@ Run the app:
 ## Notes
 
 - This project is **not lightweight**; performance depends on the complexity of the wallpaper content  
-- Intended for learning, experimentation, or as a base for custom wallpaper engines  
+- Intended for learning and experimentation.
 
 ---
-
-## License
-
-MIT License
