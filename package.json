@@ -1,0 +1,17 @@
+{
+  "name": "wallpaper-engine",
+  "version": "1.0.0",
+  "description": "Animated desktop wallpaper engine behind icons",
+  "main": "src/wallpaper-engine.js",
+  "scripts": {
+    "start": "electron .",
+    "postinstall": "electron-rebuild"
+  },
+  "dependencies": {
+    "electron": "^28.0.0",
+    "koffi": "^2.14.1"
+  },
+  "devDependencies": {
+    "electron-rebuild": "^3.2.9"
+  }
+}
