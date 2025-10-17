@@ -18,6 +18,7 @@ This project is intended for experimentation and learning, and it is not optimiz
 
 ## Installation
 > **Prerequisite:** Node.js must be installed on your system. You can download it from [https://nodejs.org](https://nodejs.org).
+
 Install dependencies:  
    `npm install`  
 Run the app:  
